@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HabitContentResolver</string>
+    <string name="test_load_1">id:</string>
+    <string name="test_load_2">, title:</string>
+    <string name="test_load_3">, description:</string>
+    <string name="load_button">load</string>
+</resources>
